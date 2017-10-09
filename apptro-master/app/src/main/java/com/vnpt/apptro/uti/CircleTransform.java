@@ -1,4 +1,4 @@
-package com.vnpt.apptro.other;
+package com.vnpt.apptro.uti;
 
 import android.content.Context;
 import android.graphics.Bitmap;

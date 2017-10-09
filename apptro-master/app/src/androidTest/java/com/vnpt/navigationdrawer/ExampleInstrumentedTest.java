@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.yukang.navigationdrawer", appContext.getPackageName());
+        assertEquals("com.vnpt.apptro", appContext.getPackageName());
     }
 }

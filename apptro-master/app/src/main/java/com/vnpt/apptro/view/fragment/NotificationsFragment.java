@@ -1,4 +1,4 @@
-package com.vnpt.apptro.fragment;
+package com.vnpt.apptro.view.fragment;
 
 import android.content.Context;
 import android.net.Uri;

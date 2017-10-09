@@ -5,13 +5,14 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
+        android:name=".App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.vnpt.apptro.activity.MainActivity"
+            android:name=".view.activity.SplashActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,10 +21,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.vnpt.apptro.activity.AboutUsActivity"
+            android:name=".view.activity.MainActivity"
+            android:label="@string/activity_home" />
+        <activity
+            android:name=".view.activity.AboutUsActivity"
             android:label="@string/activity_title_about_us" />
         <activity
-            android:name="com.vnpt.apptro.activity.PrivacyPolicyActivity"
+            android:name=".view.activity.PrivacyPolicyActivity"
             android:label="@string/activity_title_privacy_policy" />
     </application>
 

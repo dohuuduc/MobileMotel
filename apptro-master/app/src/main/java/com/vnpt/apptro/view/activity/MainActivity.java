@@ -1,4 +1,4 @@
-package com.vnpt.apptro.activity;
+package com.vnpt.apptro.view.activity;
 
 import android.content.Intent;
 import android.os.Handler;
@@ -23,13 +23,13 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
-import com.vnpt.apptro.fragment.HomeFragment;
-import com.vnpt.apptro.fragment.MoviesFragment;
-import com.vnpt.apptro.fragment.NotificationsFragment;
-import com.vnpt.apptro.fragment.PhotosFragment;
-import com.vnpt.apptro.other.CircleTransform;
+import com.vnpt.apptro.view.fragment.HomeFragment;
+import com.vnpt.apptro.view.fragment.MoviesFragment;
+import com.vnpt.apptro.view.fragment.NotificationsFragment;
+import com.vnpt.apptro.view.fragment.PhotosFragment;
+import com.vnpt.apptro.uti.CircleTransform;
 import com.vnpt.apptro.R;
-import com.vnpt.apptro.fragment.SettingsFragment;
+import com.vnpt.apptro.view.fragment.SettingsFragment;
 
 public class MainActivity extends AppCompatActivity {
 
