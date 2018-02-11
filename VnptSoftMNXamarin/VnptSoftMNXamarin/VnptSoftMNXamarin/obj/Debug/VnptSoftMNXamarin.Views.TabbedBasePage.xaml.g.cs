@@ -11,8 +11,8 @@
 namespace VnptSoftMNXamarin.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\Views\\TabbedBasePage.xam" +
-        "l")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\GitHub Desktop\\MobileMotel\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamar" +
+        "in\\Views\\TabbedBasePage.xaml")]
     public partial class TabbedBasePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

@@ -11,7 +11,8 @@
 namespace VnptSoftMNXamarin {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\GitHub Desktop\\MobileMotel\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamar" +
+        "in\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.MasterDetailPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

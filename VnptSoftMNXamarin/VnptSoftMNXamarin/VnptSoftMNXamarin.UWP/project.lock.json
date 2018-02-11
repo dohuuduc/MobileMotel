@@ -23062,12 +23062,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "D:\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.UWP\\VnptSoftMNXamarin.UWP.csproj",
+      "projectUniqueName": "D:\\GitHub Desktop\\MobileMotel\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.UWP\\VnptSoftMNXamarin.UWP.csproj",
       "projectName": "VnptSoftMNXamarin.UWP",
-      "projectPath": "D:\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.UWP\\VnptSoftMNXamarin.UWP.csproj",
-      "projectJsonPath": "D:\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.UWP\\project.json",
+      "projectPath": "D:\\GitHub Desktop\\MobileMotel\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.UWP\\VnptSoftMNXamarin.UWP.csproj",
+      "projectJsonPath": "D:\\GitHub Desktop\\MobileMotel\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.UWP\\project.json",
       "packagesPath": "C:\\Users\\luulong\\.nuget\\packages\\",
-      "outputPath": "D:\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.UWP\\obj\\",
+      "outputPath": "D:\\GitHub Desktop\\MobileMotel\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
@@ -23084,8 +23084,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "D:\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.csproj": {
-              "projectPath": "D:\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.csproj"
+            "D:\\GitHub Desktop\\MobileMotel\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.csproj": {
+              "projectPath": "D:\\GitHub Desktop\\MobileMotel\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin.csproj"
             }
           }
         }

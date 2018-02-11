@@ -77,3 +77,7 @@ D:\GitHub Desktop\MobileMotel\Api2\WebApplication9\obj\Debug\API2AuthenMobile.cs
 D:\GitHub Desktop\MobileMotel\Api2\WebApplication9\obj\Debug\API2AuthenMobile.csproj.CoreCompileInputs.cache
 D:\GitHub Desktop\MobileMotel\Api2\WebApplication9\obj\Debug\WebApplication9.dll
 D:\GitHub Desktop\MobileMotel\Api2\WebApplication9\obj\Debug\WebApplication9.pdb
+D:\GitHub Desktop\MobileMotel\Api2\API2AuthenMobile\obj\Debug\API2AuthenMobile.csprojResolveAssemblyReference.cache
+D:\GitHub Desktop\MobileMotel\Api2\API2AuthenMobile\obj\Debug\API2AuthenMobile.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\MobileMotel\Api2\API2AuthenMobile\obj\Debug\WebApplication9.dll
+D:\GitHub Desktop\MobileMotel\Api2\API2AuthenMobile\obj\Debug\WebApplication9.pdb

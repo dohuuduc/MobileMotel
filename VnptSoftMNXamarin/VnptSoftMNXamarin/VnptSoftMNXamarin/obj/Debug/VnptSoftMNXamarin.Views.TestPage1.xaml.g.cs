@@ -11,7 +11,8 @@
 namespace VnptSoftMNXamarin.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\Views\\TestPage1.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\GitHub Desktop\\MobileMotel\\VnptSoftMNXamarin\\VnptSoftMNXamarin\\VnptSoftMNXamar" +
+        "in\\Views\\TestPage1.xaml")]
     public partial class TestPage1 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
