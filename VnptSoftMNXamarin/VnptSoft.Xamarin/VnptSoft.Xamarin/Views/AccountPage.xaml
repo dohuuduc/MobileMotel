@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="VnptSoft.Xamarin.Views.AccountPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:abstractions="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions">
+        <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="TitleColor">#C2C3C9</Color>
+            <Color x:Key="ContentColor">Black</Color>
+            <Style x:Key="LabTitle" TargetType="Label">
+                <Setter Property="HorizontalTextAlignment" Value="End" />
+                <Setter Property="TextColor" Value="{StaticResource TitleColor}" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="WidthRequest" Value="100" />
+            </Style>
+            <Style x:Key="LabContent" TargetType="Label">
+                <Setter Property="Margin" Value="10,0" />
+                <Setter Property="TextColor" Value="{StaticResource ContentColor}" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+            <Style x:Key="CustomCell" TargetType="StackLayout">
+                <Setter Property="HorizontalOptions" Value="StartAndExpand" />
+                <Setter Property="Orientation" Value="Horizontal" />
+                <Setter Property="VerticalOptions" Value="Center" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <AbsoluteLayout>
+
+        <!--  Account page  -->
+        <Grid AbsoluteLayout.LayoutBounds="1,1,1,1" AbsoluteLayout.LayoutFlags="All">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="10*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!--  UPS title region  -->
+            <StackLayout
+                Grid.Row="0"
+                Grid.Column="0"
+                BackgroundColor="#341B14"
+                HorizontalOptions="FillAndExpand"
+                Orientation="Horizontal"
+                VerticalOptions="FillAndExpand">
+                <Image
+                    Margin="20,0,10,0"
+                    HeightRequest="25"
+                    HorizontalOptions="Center"
+                    Source="LogoUPS.png" />
+                <Label
+                    FontSize="25"
+                    Text="myUPS"
+                    TextColor="{StaticResource primaryColor}"
+                    VerticalOptions="Center" />
+            </StackLayout>
+
+            <!--  User profile image region  -->
+            <StackLayout
+                Grid.Row="1"
+                Grid.Column="0"
+                HorizontalOptions="Start"
+                Orientation="Horizontal"
+                VerticalOptions="Center">
+                <abstractions:CircleImage
+                    Margin="15,0,0,0"
+                    Aspect="AspectFill"
+                    HeightRequest="55"
+                    Source="{Binding AvartarImage, Mode=TwoWay}"
+                    VerticalOptions="Center"
+                    WidthRequest="55" />
+                <Label
+                    Margin="10,0,0,0"
+                    AutomationId="DisplayNameLab"
+                    FontSize="20"
+                    Text="{Binding DisplayName, Mode=TwoWay}"
+                    TextColor="Black"
+                    VerticalOptions="Center" />
+            </StackLayout>
+
+            <!--  Account information region  -->
+            <StackLayout Grid.Row="2" Grid.Column="0">
+                <TableView Intent="Form">
+                    <TableRoot>
+                        <TableSection Title="Information">
+
+                            <!--  ADID  -->
+                            <ViewCell>
+                                <StackLayout Style="{StaticResource CustomCell}">
+                                    <Label Style="{StaticResource LabTitle}" Text="ADID" />
+                                    <Label
+                                        AutomationId="AdIdLab"
+                                        Style="{StaticResource LabContent}"
+                                        Text="{Binding AdId, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell>
+
+                            <!--  UPS Mail  -->
+                            <ViewCell>
+                                <StackLayout Style="{StaticResource CustomCell}">
+                                    <Label Style="{StaticResource LabTitle}" Text="UPS Mail" />
+                                    <Label
+                                        AutomationId="UpsMailLab"
+                                        Style="{StaticResource LabContent}"
+                                        Text="{Binding UpsMail, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell>
+
+                            <!--  PassCode  -->
+                            <ViewCell>
+                                <StackLayout Style="{StaticResource CustomCell}">
+                                    <Label Style="{StaticResource LabTitle}" Text="PassCode" />
+                                    <Label
+                                        AutomationId="PassCodeLab"
+                                        Style="{StaticResource LabContent}"
+                                        Text="{Binding PassCode, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell>
+
+                            <!--  GDID  -->
+                            <ViewCell>
+                                <StackLayout Style="{StaticResource CustomCell}">
+                                    <Label Style="{StaticResource LabTitle}" Text="GDID" />
+                                    <Label
+                                        AutomationId="GdIdLab"
+                                        Style="{StaticResource LabContent}"
+                                        Text="{Binding GdId, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell>
+
+                            <!--  RAN ID  -->
+                            <ViewCell>
+                                <StackLayout Style="{StaticResource CustomCell}">
+                                    <Label Style="{StaticResource LabTitle}" Text="RAN ID" />
+                                    <Label
+                                        AutomationId="RanIdLab"
+                                        Style="{StaticResource LabContent}"
+                                        Text="{Binding RanId, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell>
+
+                            <!--  Token ID  -->
+                            <ViewCell>
+                                <StackLayout Style="{StaticResource CustomCell}">
+                                    <Label Style="{StaticResource LabTitle}" Text="Token ID" />
+                                    <Label
+                                        AutomationId="TokenIdLab"
+                                        Style="{StaticResource LabContent}"
+                                        Text="{Binding TokenId, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell>
+                        </TableSection>
+                        <TableSection Title="Contact Point">
+
+                            <!--  Contact Point  -->
+                            <ViewCell>
+                                <StackLayout Style="{StaticResource CustomCell}">
+                                    <Label
+                                        AutomationId="ContactPointNameLab"
+                                        Style="{StaticResource LabTitle}"
+                                        Text="{Binding ContactPointName, Mode=TwoWay}" />
+                                    <Label
+                                        AutomationId="ContactPointPhoneLab"
+                                        Style="{StaticResource LabContent}"
+                                        Text="{Binding ContactPointPhone, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell>
+
+                            <!--  Home Address  -->
+                            <ViewCell>
+                                <StackLayout Style="{StaticResource CustomCell}">
+                                    <Label Style="{StaticResource LabTitle}" Text="Home Address" />
+                                    <Label
+                                        AutomationId="HomeAddressLab"
+                                        Style="{StaticResource LabContent}"
+                                        Text="{Binding HomeAddress, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell>
+
+                            <!--  Work Address  -->
+                            <ViewCell>
+                                <StackLayout Style="{StaticResource CustomCell}">
+                                    <Label Style="{StaticResource LabTitle}" Text="Work Address" />
+                                    <Label
+                                        AutomationId="WorkAddressLab"
+                                        Style="{StaticResource LabContent}"
+                                        Text="{Binding WorkAddress, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell>
+
+                            <!--  General Info  -->
+                            <ViewCell>
+                                <StackLayout Style="{StaticResource CustomCell}">
+                                    <Label Style="{StaticResource LabTitle}" Text="General Info" />
+                                    <Label
+                                        AutomationId="GeneralInfoLab"
+                                        Style="{StaticResource LabContent}"
+                                        Text="{Binding GeneralInfo, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell>
+                        </TableSection>
+                    </TableRoot>
+                </TableView>
+            </StackLayout>
+        </Grid>
+
+        <ActivityIndicator IsRunning="{Binding IsLoading}" Style="{StaticResource indicator}" />
+    </AbsoluteLayout>
+
+
+</ContentPage>

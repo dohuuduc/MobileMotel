@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VnptSoft.Xamarin.Views.TabbedBasePage"
+              xmlns:views="clr-namespace:VnptSoft.Xamarin.Views;assembly=VnptSoft.Xamarin"
+             >
+    <TabbedPage.Children>
+        <views:AccountPage Icon="u67.png" />
+        <ContentPage Icon="u64.png">
+            <Label Text="Page 2" />
+        </ContentPage>
+        <ContentPage Icon="u60.png">
+            <Label Text="Page 3" />
+        </ContentPage>
+    </TabbedPage.Children>
+</ContentPage>

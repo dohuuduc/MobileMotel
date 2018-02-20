@@ -1,0 +1,133 @@
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoftMNXamarin\VnptSoftMNXamarin\bin\Debug\VnptSoftMNXamarin.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\VnptSoft.Xamarin.Android.csprojResolveAssemblyReference.cache
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\VnptSoft.Xamarin.Android.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\VnptSoft.Xamarin.Android.dll.config
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\VnptSoft.Xamarin.Android.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\VnptSoft.Xamarin.Android.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\com.companyname.VnptSoft.Xamarin.apk
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\com.companyname.VnptSoft.Xamarin-Signed.apk
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\FormsViewGroup.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\VnptSoft.Xamarin.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Auth.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Microsoft.Azure.Mobile.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.iOS.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\ModernHttpClient.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Mono.Security.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\VnptSoft.Xamarin.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\VnptSoft.Xamarin.dll.config
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\FormsViewGroup.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Auth.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Auth.dll.mdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Xamarin.iOS.xml
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\ModernHttpClient.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\Mono.Security.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\VnptSoft.Xamarin.Android.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\VnptSoft.Xamarin.Android.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\android\bin\com.companyname.VnptSoft.Xamarin.apk
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable\icon.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\layout\tabbar.xml
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\layout\toolbar.xml
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\values\styles.xml
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-hdpi\background.jpg
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-hdpi\iconhuman.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-hdpi\iconlock.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-hdpi\logofpt.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-hdpi\logoups.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-hdpi\u60.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-hdpi\u64.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-hdpi\u67.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xhdpi\background.jpg
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xhdpi\iconhuman.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xhdpi\iconlock.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xhdpi\logofpt.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xhdpi\logoups.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xhdpi\u60.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xhdpi\u64.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xhdpi\u67.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xxhdpi\background.jpg
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xxhdpi\iconhuman.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xxhdpi\iconlock.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xxhdpi\logofpt.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xxhdpi\logoups.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xxhdpi\u60.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xxhdpi\u64.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\res\drawable-xxhdpi\u67.png
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\R.cs.flag
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\obj\Debug\uploadflags.txt
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin\bin\Debug\VnptSoft.Xamarin.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin.Android\bin\Debug\VnptSoft.Xamarin.Android.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin\bin\Debug\VnptSoft.Xamarin.dll
+bin\Debug\VnptSoft.Xamarin.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Json.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\Microsoft.CSharp.pdb
+obj\Debug\linksrc\VnptSoft.Xamarin.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\VnptSoft.Xamarin.dll.mdb
+obj\Debug\linksrc\Xamarin.Auth.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Json.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\ModernHttpClient.pdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\ImageCircle.Forms.Plugin.Abstractions.pdb

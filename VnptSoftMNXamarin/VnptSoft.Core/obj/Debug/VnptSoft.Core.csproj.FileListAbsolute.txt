@@ -1,0 +1,16 @@
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoftMNCore\bin\Debug\VnptSoftMNCore.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoftMNCore\bin\Debug\VnptSoftMNCore.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoftMNCore\obj\Debug\VnptSoft.Core.csprojResolveAssemblyReference.cache
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoftMNCore\obj\Debug\VnptSoftMNCore.Properties.Resources.resources
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoftMNCore\obj\Debug\VnptSoft.Core.csproj.GenerateResource.Cache
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoftMNCore\obj\Debug\VnptSoft.Core.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoftMNCore\obj\Debug\VnptSoftMNCore.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoftMNCore\obj\Debug\VnptSoftMNCore.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\bin\Debug\VnptSoftMNCore.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\bin\Debug\VnptSoftMNCore.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoftMNCore.Properties.Resources.resources
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoft.Core.csproj.GenerateResource.Cache
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoft.Core.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoftMNCore.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoftMNCore.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoft.Core.csprojResolveAssemblyReference.cache
