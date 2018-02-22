@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Web.Http;
 
-namespace WebApplication9.Results
+namespace VnptSoft.API2.Results
 {
     public class ChallengeResult : IHttpActionResult
     {

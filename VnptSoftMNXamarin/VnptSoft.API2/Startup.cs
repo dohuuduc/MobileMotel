@@ -4,9 +4,9 @@ using System.Linq;
 using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartup(typeof(WebApplication9.Startup))]
+[assembly: OwinStartup(typeof(VnptSoft.API2.Startup))]
 
-namespace WebApplication9
+namespace VnptSoft.API2
 {
     public partial class Startup
     {

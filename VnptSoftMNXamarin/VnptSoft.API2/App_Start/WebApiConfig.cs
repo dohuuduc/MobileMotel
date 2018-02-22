@@ -6,7 +6,7 @@ using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
 
-namespace WebApplication9
+namespace VnptSoft.API2
 {
     public static class WebApiConfig
     {

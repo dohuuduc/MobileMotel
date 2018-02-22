@@ -13,15 +13,15 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
-using WebApplication9.Models;
-using WebApplication9.Providers;
-using WebApplication9.Results;
+using VnptSoft.API2.Models;
+using VnptSoft.API2.Providers;
+using VnptSoft.API2.Results;
 
-namespace WebApplication9.Controllers
+namespace VnptSoft.API2.Controllers
 {
     [Authorize]
     [RoutePrefix("api/Account")]
-    public class AccountController : ApiController
+  public class AccountController : ApiController
     {
         private const string LocalLoginProvider = "Local";
         private ApplicationUserManager _userManager;

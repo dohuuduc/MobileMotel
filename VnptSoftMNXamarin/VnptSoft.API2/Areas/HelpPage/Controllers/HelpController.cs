@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using WebApplication9.Areas.HelpPage.ModelDescriptions;
-using WebApplication9.Areas.HelpPage.Models;
+using VnptSoft.API2.Areas.HelpPage.ModelDescriptions;
+using VnptSoft.API2.Areas.HelpPage.Models;
 
-namespace WebApplication9.Areas.HelpPage.Controllers
+namespace VnptSoft.API2.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

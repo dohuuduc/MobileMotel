@@ -13,4 +13,6 @@ D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoft
 D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoft.Core.csproj.CoreCompileInputs.cache
 D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoftMNCore.dll
 D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoftMNCore.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\bin\Debug\Newtonsoft.Json.xml
 D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Core\obj\Debug\VnptSoft.Core.csprojResolveAssemblyReference.cache

@@ -1,4 +1,4 @@
-namespace WebApplication9.Areas.HelpPage
+namespace VnptSoft.API2.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

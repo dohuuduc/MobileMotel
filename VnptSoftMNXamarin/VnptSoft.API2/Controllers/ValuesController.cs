@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace WebApplication9.Controllers
+namespace VnptSoft.API2.Controllers
 {
     [Authorize]
     public class ValuesController : ApiController

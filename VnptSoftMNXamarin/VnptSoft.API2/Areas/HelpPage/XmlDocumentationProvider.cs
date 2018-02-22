@@ -5,9 +5,9 @@ using System.Reflection;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
 using System.Xml.XPath;
-using WebApplication9.Areas.HelpPage.ModelDescriptions;
+using VnptSoft.API2.Areas.HelpPage.ModelDescriptions;
 
-namespace WebApplication9.Areas.HelpPage
+namespace VnptSoft.API2.Areas.HelpPage
 {
     /// <summary>
     /// A custom <see cref="IDocumentationProvider"/> that reads the API documentation from an XML documentation file.

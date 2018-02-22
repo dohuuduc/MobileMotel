@@ -1,11 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Web.Mvc;
+using System.Security.Claims;
+using System.Security.Principal;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
+using VnptSoft.API2.Auth;
+using VnptSoftMNCore.Core.Constants;
+using VnptSoftMNCore.Core.Models;
 
-namespace WebApplication9.Controllers {
+namespace VnptSoft.API2.Controllers {
   public class BaseController: Controller {
     protected JiraCredential GetUserCredential() {
       var claimsIdentity = HttpContext.User.Identities.FirstOrDefault();

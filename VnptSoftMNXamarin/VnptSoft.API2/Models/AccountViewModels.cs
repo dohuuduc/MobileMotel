@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace WebApplication9.Models
+namespace VnptSoft.API2.Models
 {
     // Models returned by AccountController actions.
 

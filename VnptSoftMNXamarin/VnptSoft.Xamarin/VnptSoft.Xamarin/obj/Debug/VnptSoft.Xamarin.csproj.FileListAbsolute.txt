@@ -61,3 +61,4 @@ D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamari
 D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin\obj\Debug\VnptSoft.Xamarin.Views.TestPage1.xaml.g.cs
 D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin\obj\Debug\VnptSoft.Xamarin.dll
 D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin\obj\Debug\VnptSoft.Xamarin.pdb
+D:\GitHub Desktop\MobileMotel\VnptSoftMNXamarin\VnptSoft.Xamarin\VnptSoft.Xamarin\obj\Debug\VnptSoft.Xamarin.csprojResolveAssemblyReference.cache

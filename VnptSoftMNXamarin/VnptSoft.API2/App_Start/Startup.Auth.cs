@@ -8,10 +8,10 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using WebApplication9.Providers;
-using WebApplication9.Models;
+using VnptSoft.API2.Providers;
+using VnptSoft.API2.Models;
 
-namespace WebApplication9
+namespace VnptSoft.API2
 {
     public partial class Startup
     {

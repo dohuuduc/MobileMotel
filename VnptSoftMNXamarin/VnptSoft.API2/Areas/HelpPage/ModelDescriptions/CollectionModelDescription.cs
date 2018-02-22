@@ -1,4 +1,4 @@
-namespace WebApplication9.Areas.HelpPage.ModelDescriptions
+namespace VnptSoft.API2.Areas.HelpPage.ModelDescriptions
 {
     public class CollectionModelDescription : ModelDescription
     {

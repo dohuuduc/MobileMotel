@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace WebApplication9 {
+namespace VnptSoft.API2 {
   public class RouteConfig {
     public static void RegisterRoutes(RouteCollection routes) {
       routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
