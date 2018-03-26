@@ -1,0 +1,7 @@
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCFService\TodoWCFService\bin\TodoWCFService.dll.config
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCFService\TodoWCFService\bin\TodoWCFService.dll
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCFService\TodoWCFService\bin\TodoWCFService.pdb
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCFService\TodoWCFService\obj\Debug\TodoWCFService.csprojResolveAssemblyReference.cache
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCFService\TodoWCFService\obj\Debug\TodoWCFService.csproj.CoreCompileInputs.cache
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCFService\TodoWCFService\obj\Debug\TodoWCFService.dll
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCFService\TodoWCFService\obj\Debug\TodoWCFService.pdb

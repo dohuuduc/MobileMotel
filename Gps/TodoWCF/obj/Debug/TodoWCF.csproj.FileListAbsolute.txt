@@ -1,0 +1,15 @@
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\bin\Debug\TodoWCF.dll
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\bin\Debug\TodoWCF.pdb
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\bin\Debug\Xamarin.Forms.Core.dll
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\bin\Debug\Xamarin.Forms.Platform.dll
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\bin\Debug\Xamarin.Forms.Core.pdb
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\bin\Debug\Xamarin.Forms.Core.xml
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\obj\Debug\TodoWCF.csproj.CoreCompileInputs.cache
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\obj\Debug\TodoWCF.Views.TodoListPage.xaml.g.cs
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\obj\Debug\TodoWCF.Views.TodoItemPage.xaml.g.cs
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\obj\Debug\TodoWCF.csproj.CopyComplete
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\obj\Debug\TodoWCF.dll
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\obj\Debug\TodoWCF.pdb

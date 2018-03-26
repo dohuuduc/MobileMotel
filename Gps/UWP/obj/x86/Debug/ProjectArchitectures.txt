@@ -1,0 +1,2 @@
+D:\GitHubDesktop\MobileMotel\Gps\TodoWCF\TodoWCF.csproj;neutral
+D:\GitHubDesktop\MobileMotel\Gps\UWP\TodoWCF.UWP.csproj;x86
